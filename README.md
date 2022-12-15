@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @B-rigg
-- 👀 I’m interested in wen development.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking for partners with whom i can learn and improve my skills.
 - 📫 How to reach me brandonsindze@gmail.com
